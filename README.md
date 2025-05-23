@@ -21,7 +21,7 @@ Aplicação full stack com **React** no front-end e **Node.js + Express** no bac
 - React
 - Vite
 - Axios
-- CSS (ou Tailwind, caso deseje)
+- CSS
 
 ### 🔸 Backend
 - Node.js
